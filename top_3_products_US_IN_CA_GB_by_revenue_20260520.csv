@@ -1,0 +1,13 @@
+country,product_rank_in_country,item_id,product_name,category,units_sold,revenue_usd,unique_buyers,country_total_units,country_total_revenue_usd,revenue_rank_in_country
+US,1,111,Canteen Bottle Black,Drinkware,33,792.0,20,2148,43030.0,1
+US,3,40,Heathered Pom Beanie,New,30,360.0,27,2148,43030.0,2
+US,2,48,Clear Pen 4-Pack,Office,33,99.0,25,2148,43030.0,3
+IN,1,490,Gift Card - $25.00,Gift Cards,13,325.0,1,427,8480.0,1
+IN,3,0,Land & Sea Cotton Cap,Apparel,8,112.0,4,427,8480.0,2
+IN,2,56,Camp Mug Ivory,Drinkware,9,90.0,7,427,8480.0,3
+CA,1,58,Utility BackPack,Bags,11,1056.0,1,410,8553.0,1
+CA,3,111,Canteen Bottle Black,Drinkware,5,120.0,4,410,8553.0,2
+CA,2,69,Laptop and Cell Phone Stickers,Google,6,18.0,6,410,8553.0,3
+GB,3,346,Soft Modal Scarf,Apparel,3,135.0,2,165,3197.0,1
+GB,2,124,Noogler  Figure,Accessories,4,64.0,4,165,3197.0,2
+GB,1,66,SM S/F18 Sticker Sheet,Accessories,5,10.0,5,165,3197.0,3

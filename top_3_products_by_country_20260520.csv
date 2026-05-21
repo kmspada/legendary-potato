@@ -1,0 +1,31 @@
+country,product_rank_in_country,item_id,product_name,category,units_sold,revenue_usd,unique_buyers,country_total_units,country_total_revenue_usd
+US,1,111,Canteen Bottle Black,Drinkware,33,792.0,20,2148,43030.0
+US,2,48,Clear Pen 4-Pack,Office,33,99.0,25,2148,43030.0
+US,3,40,Heathered Pom Beanie,New,30,360.0,27,2148,43030.0
+IN,1,490,Gift Card - $25.00,Gift Cards,13,325.0,1,427,8480.0
+IN,2,56,Camp Mug Ivory,Drinkware,9,90.0,7,427,8480.0
+IN,3,0,Land & Sea Cotton Cap,Apparel,8,112.0,4,427,8480.0
+CA,1,58,Utility BackPack,Bags,11,1056.0,1,410,8553.0
+CA,2,69,Laptop and Cell Phone Stickers,Google,6,18.0,6,410,8553.0
+CA,3,111,Canteen Bottle Black,Drinkware,5,120.0,4,410,8553.0
+GB,1,66,SM S/F18 Sticker Sheet,Accessories,5,10.0,5,165,3197.0
+GB,2,124,Noogler  Figure,Accessories,4,64.0,4,165,3197.0
+GB,3,346,Soft Modal Scarf,Apparel,3,135.0,2,165,3197.0
+FR,1,165,Thermal Tumbler Navy,Drinkware,3,54.0,2,115,1946.0
+FR,2,526,Transmission Journal Red,Office,3,48.0,2,115,1946.0
+FR,3,185,Perk Thermal Tumbler,Lifestyle,3,48.0,2,115,1946.0
+ES,1,65,Felt Refillable Journal,Clearance,3,48.0,2,106,1794.0
+ES,2,108,Recycled Pen Black,New,3,6.0,2,106,1794.0
+ES,3,59,Incognito Techpack V2,Bags,2,140.0,1,106,1794.0
+JP,1,92,Large Standard Journal Grey,Office,5,80.0,2,103,1960.0
+JP,2,77,Twill Sandwich Cap Black,Apparel,4,40.0,3,103,1960.0
+JP,3,51,Crewneck Sweatshirt Green,Apparel,3,132.0,2,103,1960.0
+TW,1,123,Emoji Magnet Set,Small Goods,3,30.0,2,91,1587.0
+TW,2,86,Magnet,Accessories,3,18.0,2,91,1587.0
+TW,3,69,Laptop and Cell Phone Stickers,Google,3,9.0,2,91,1587.0
+TR,1,200,Men's Tech Fleece Grey,Apparel,4,284.0,1,81,1566.0
+TR,2,146,Badge Heavyweight Pullover Black,Apparel,4,184.0,1,81,1566.0
+TR,3,150,F/C Longsleeve Charcoal,Apparel,4,96.0,1,81,1566.0
+DE,1,127,Cloud Pen,Shop by Brand,3,9.0,3,77,1330.0
+DE,2,112,Pen White,Office,3,6.0,3,77,1330.0
+DE,3,178,Crewneck Sweatshirt Navy,Apparel,2,88.0,1,77,1330.0

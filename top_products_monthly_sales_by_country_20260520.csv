@@ -1,0 +1,37 @@
+country,item_id,product_name,category,month,units_sold
+US,111,Canteen Bottle Black,Drinkware,2020-11,13
+US,111,Canteen Bottle Black,Drinkware,2020-12,15
+US,111,Canteen Bottle Black,Drinkware,2021-01,5
+US,48,Clear Pen 4-Pack,Office,2020-11,23
+US,48,Clear Pen 4-Pack,Office,2020-12,10
+US,48,Clear Pen 4-Pack,Office,2021-01,0
+US,40,Heathered Pom Beanie,New,2020-11,8
+US,40,Heathered Pom Beanie,New,2020-12,20
+US,40,Heathered Pom Beanie,New,2021-01,2
+IN,490,Gift Card - $25.00,Gift Cards,2020-11,0
+IN,490,Gift Card - $25.00,Gift Cards,2020-12,13
+IN,490,Gift Card - $25.00,Gift Cards,2021-01,0
+IN,56,Camp Mug Ivory,Drinkware,2020-11,5
+IN,56,Camp Mug Ivory,Drinkware,2020-12,4
+IN,56,Camp Mug Ivory,Drinkware,2021-01,0
+IN,0,Land & Sea Cotton Cap,Apparel,2020-11,0
+IN,0,Land & Sea Cotton Cap,Apparel,2020-12,8
+IN,0,Land & Sea Cotton Cap,Apparel,2021-01,0
+CA,58,Utility BackPack,Bags,2020-11,0
+CA,58,Utility BackPack,Bags,2020-12,11
+CA,58,Utility BackPack,Bags,2021-01,0
+CA,69,Laptop and Cell Phone Stickers,Google,2020-11,3
+CA,69,Laptop and Cell Phone Stickers,Google,2020-12,2
+CA,69,Laptop and Cell Phone Stickers,Google,2021-01,1
+CA,111,Canteen Bottle Black,Drinkware,2020-11,2
+CA,111,Canteen Bottle Black,Drinkware,2020-12,1
+CA,111,Canteen Bottle Black,Drinkware,2021-01,2
+GB,66,SM S/F18 Sticker Sheet,Accessories,2020-11,2
+GB,66,SM S/F18 Sticker Sheet,Accessories,2020-12,2
+GB,66,SM S/F18 Sticker Sheet,Accessories,2021-01,1
+GB,124,Noogler  Figure,Accessories,2020-11,1
+GB,124,Noogler  Figure,Accessories,2020-12,2
+GB,124,Noogler  Figure,Accessories,2021-01,1
+GB,346,Soft Modal Scarf,Apparel,2020-11,0
+GB,346,Soft Modal Scarf,Apparel,2020-12,2
+GB,346,Soft Modal Scarf,Apparel,2021-01,1

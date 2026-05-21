@@ -1,0 +1,26 @@
+product_rank,item_id,product_name,variant,category,units_sold,revenue_usd,unique_buyers,purchase_sessions,avg_unit_price_usd,avg_buyer_ltv_usd,top_country,top_country_units,first_purchase_date,last_purchase_date
+1,56," Camp Mug Ivory","Single Option Only",Drinkware,60,600.0,49,49,10.0,156.92,US,25,2020-11-09,2021-01-25
+2,25," Crew Socks","Single Option Only",Apparel,56,728.0,44,47,13.0,144.71,US,25,2020-11-03,2021-01-22
+3,40," Heathered Pom Beanie","Single Option Only",New,55,660.0,48,52,12.0,193.07,US,30,2020-11-02,2021-01-21
+4,48," Clear Pen 4-Pack","Single Option Only",Office,55,165.0,47,48,3.0,158.78,US,33,2020-11-02,2020-12-16
+5,111," Canteen Bottle Black","Single Option Only",Drinkware,52,1248.0,38,39,24.0,216.9,US,33,2020-11-02,2021-01-25
+6,69," Laptop and Cell Phone Stickers","Single Option Only",Google,50,150.0,47,49,3.0,118.78,US,19,2020-11-04,2021-01-28
+7,0," Land & Sea Cotton Cap","Single Option Only",Apparel,49,686.0,36,39,14.0,262.9,US,27,2020-11-26,2021-01-18
+8,74," Leather Strap Hat Blue","Single Option Only",Apparel,43,602.0,35,36,14.0,145.05,US,17,2020-11-08,2020-12-09
+9,124,"Noogler  Figure","Single Option Only",Accessories,41,656.0,38,39,16.0,113.46,US,24,2020-11-12,2021-01-23
+10,47," Metallic Notebook Set","Single Option Only",Office,41,205.0,35,36,5.0,123.66,US,21,2020-11-03,2021-01-27
+11,86," Magnet","Single Option Only",Accessories,40,240.0,32,32,6.0,108.1,US,21,2020-11-03,2021-01-24
+12,77," Twill Sandwich Cap Black","Single Option Only",Apparel,39,390.0,35,36,10.0,78.03,US,16,2020-11-03,2021-01-30
+13,185," Perk Thermal Tumbler","Single Option Only",Lifestyle,37,592.0,33,33,16.0,173.14,US,14,2020-11-02,2021-01-23
+14,76," Crew Combed Cotton Sock","Single Option Only",Apparel,35,490.0,31,32,14.0,222.46,US,19,2020-11-02,2021-01-17
+15,114," Light Pen Blue","Single Option Only","Writing Instruments",35,70.0,33,33,2.0,119.46,US,14,2020-11-12,2021-01-25
+16,66," SM S/F18 Sticker Sheet","Single Option Only",Accessories,34,68.0,33,33,2.0,94.03,US,12,2020-11-07,2021-01-26
+17,167," Black Cork Journal","Single Option Only",New,33,396.0,27,29,12.0,265.45,US,15,2020-11-02,2021-01-21
+18,94," Large Tote White","Single Option Only",Bags,33,330.0,30,30,10.0,162.33,US,16,2020-11-07,2021-01-26
+19,112," Pen White","Single Option Only",Office,33,66.0,31,31,2.0,80.09,US,8,2020-11-07,2021-01-25
+20,175," Camp Mug Gray","Single Option Only","Shop by Brand",32,320.0,23,25,10.0,145.06,US,16,2020-11-23,2020-12-28
+21,55," NYC Campus Mug","Single Option Only","Campus Collection",32,224.0,29,29,7.0,124.09,US,15,2020-11-02,2020-12-30
+22,126," Keychain","Single Option Only","Small Goods",29,232.0,27,27,8.0,104.28,US,14,2020-11-04,2021-01-25
+23,17," Mural Sticker Sheet","Single Option Only","Small Goods",29,87.0,28,28,3.0,111.69,US,10,2020-11-10,2021-01-25
+24,170," Woodtop Bottle Black","Single Option Only",New,28,672.0,18,18,24.0,164.0,US,18,2020-11-11,2021-01-12
+25,95," Glass Bottle","Single Option Only",Lifestyle,28,504.0,26,26,18.0,121.29,US,8,2020-11-04,2021-01-25

@@ -1,0 +1,73 @@
+country,category,units_sold,revenue_usd
+US,Apparel,702,24104.0
+US,New,233,3199.0
+US,Bags,104,2709.0
+US,Accessories,176,1947.0
+US,Campus Collection,183,1890.0
+US,Shop by Brand,96,1727.0
+US,Uncategorized Items,73,1716.0
+US,Drinkware,105,1683.0
+US,Clearance,100,1268.0
+US,Lifestyle,70,1113.0
+US,Office,116,609.0
+US,Small Goods,51,442.0
+US,Gift Cards,4,150.0
+US,Google,30,128.0
+US,Stationery,50,105.0
+US,Writing Instruments,39,102.0
+US,Electronics Accessories,10,100.0
+US,Eco-Friendly,1,19.0
+US,Notebooks & Journals,2,13.0
+US,Fun,3,6.0
+IN,Apparel,123,4044.0
+IN,Bags,21,722.0
+IN,New,39,601.0
+IN,Shop by Brand,33,593.0
+IN,Campus Collection,44,442.0
+IN,Lifestyle,18,341.0
+IN,Uncategorized Items,15,333.0
+IN,Gift Cards,13,325.0
+IN,Drinkware,24,323.0
+IN,Accessories,23,309.0
+IN,Clearance,21,205.0
+IN,Office,26,144.0
+IN,Small Goods,5,33.0
+IN,Stationery,11,31.0
+IN,Notebooks & Journals,2,13.0
+IN,Writing Instruments,6,12.0
+IN,Google,3,9.0
+CA,Apparel,119,3965.0
+CA,Bags,26,1320.0
+CA,New,42,554.0
+CA,Campus Collection,56,545.0
+CA,Accessories,37,519.0
+CA,Clearance,18,355.0
+CA,Shop by Brand,15,304.0
+CA,Lifestyle,20,243.0
+CA,Uncategorized Items,15,235.0
+CA,Drinkware,13,188.0
+CA,Office,20,149.0
+CA,Small Goods,8,67.0
+CA,Electronics Accessories,3,30.0
+CA,Google,7,25.0
+CA,Notebooks & Journals,3,21.0
+CA,Eco-Friendly,1,19.0
+CA,Writing Instruments,6,12.0
+CA,Stationery,1,2.0
+GB,Apparel,49,1483.0
+GB,Uncategorized Items,10,348.0
+GB,Accessories,21,267.0
+GB,Bags,11,209.0
+GB,Shop by Brand,9,167.0
+GB,New,12,163.0
+GB,Lifestyle,3,158.0
+GB,Drinkware,5,112.0
+GB,Campus Collection,16,93.0
+GB,Small Goods,9,69.0
+GB,Clearance,4,61.0
+GB,Office,5,22.0
+GB,Google,4,18.0
+GB,Notebooks & Journals,2,13.0
+GB,Stationery,1,6.0
+GB,Writing Instruments,3,6.0
+GB,Fun,1,2.0
